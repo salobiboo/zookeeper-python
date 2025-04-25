@@ -1,0 +1,9 @@
+type: unsupported
+custom_name: "Quotation quandary: A chat conundrum"
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/49159#comment
+status: Solved
+record: -1

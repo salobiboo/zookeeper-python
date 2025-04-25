@@ -1,0 +1,14 @@
+type: code
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6882#comment
+status: Failed
+feedback:
+  message: |
+    Check your solution and give it another shot.
+    Cannot check answer. Perhaps output format is wrong.
+  time: "Wed, 23 Apr 2025 20:20:59 UTC"
+record: -1
+submission_language: python3

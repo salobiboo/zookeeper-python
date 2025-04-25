@@ -1,0 +1,9 @@
+type: unsupported
+custom_name: \Fish
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/38425#comment
+status: Solved
+record: -1
